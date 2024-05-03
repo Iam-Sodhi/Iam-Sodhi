@@ -42,28 +42,6 @@
 </p>
 --->
 
-# Projects
-
-## Full-stack
-<p align="center">
-	<a href="https://github.com/Iam-Sodhi/ChatMate_GS">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=Iam-Sodhi&repo=ChatMate_GS&hide_border=true&theme=dark">
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://github.com/Iam-Sodhi/CodersRealm">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=Iam-Sodhi&repo=CodersRealm&hide_border=true&theme=dark">
-	</a>
-</p>
-
-
-## OOPS / C++
-<p align="center">
-	<a href="https://github.com/Iam-Sodhi/Music-Player">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=Iam-Sodhi&repo=Music-Player&hide_border=true&theme=dark">
-	</a>
-</p>
 
 # Technologies
 
@@ -120,6 +98,30 @@
 ### Others
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+# Projects
+
+## Full-stack
+<p align="center">
+	<a href="https://github.com/Iam-Sodhi/ChatMate_GS">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=Iam-Sodhi&repo=ChatMate_GS&hide_border=true&theme=dark">
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/Iam-Sodhi/CodersRealm">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=Iam-Sodhi&repo=CodersRealm&hide_border=true&theme=dark">
+	</a>
+</p>
+
+
+## OOPS / C++
+<p align="center">
+	<a href="https://github.com/Iam-Sodhi/Music-Player">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=Iam-Sodhi&repo=Music-Player&hide_border=true&theme=dark">
+	</a>
+</p>
 
 <!---
 # Metrics
